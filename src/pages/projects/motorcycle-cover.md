@@ -6,7 +6,7 @@ title: "Motorcycle Cover"
 ---
 
 ## Motorcycle Cover
-In the summer of 2022, [my brother](https://nicolo.se)'s friend had asked him if I per chance could 3d print something for him. It was a motorcycle cover because the one on the left side of their motorcycle was absent. As it was a identical to the one of the left, he thought that maybe it was possible to recreate it and only have to flip it make it fit on the right side. I felt confident that this would be possible, therefore I set out to do it.
+In the summer of 2022, [my brother](https://nicolo.se)'s friend had asked him if I per chance could 3d print something for him. It was a motorcycle cover because the one on the right side of their motorcycle was absent. As it was a identical to the one of the left, he thought that maybe it was possible to recreate it and only have to flip it make it fit on the right side. I felt confident that this would be possible, therefore I set out to do it.
 ![Left side of motorcycle](/motorcycle-cover/1.jpg)
 
 My first idea was to recreate it in CAD (Computer Aided Design) in Fusion 360. I started by creating an object that you could mould into different shapes. Slowly though, I noticed that the motorcycle cover had many different angled and slopes that I, with only experience in modeling conventionally, would not be able to recreate.
