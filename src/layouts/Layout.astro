@@ -17,7 +17,7 @@ const { title = "Emil Ridulfo"} = Astro.props;
   </head>
   <body>
     <main>
-			<h1>{title}</a></h1>
+			<a href="/"><h1>{title}</a></h1><a/>
       <slot />
     </main>
   </body>
@@ -34,7 +34,7 @@ body {
   }
   main {
     max-width: 800px;
-		margin: 0 auto 0 auto;
+		margin: 0 auto;
 		
   }
 a {
@@ -43,7 +43,10 @@ a {
 ul {
 		text-align: center;
     list-style: none;
-		margin: 0 auto 0 auto;
+		margin: 0 auto;
 		padding-inline-start: 0;
+}
+li {
+margin-top: 20px;
 }
 </style>
