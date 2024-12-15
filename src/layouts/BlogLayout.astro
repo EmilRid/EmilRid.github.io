@@ -1,0 +1,13 @@
+---
+import Layout from "./Layout.astro";
+---
+
+<Layout>
+  <slot />
+  <style is:global>
+    img {
+      object-fit: cover;
+      width: 100%;
+    }
+  </style>
+</Layout>
